@@ -87,7 +87,7 @@ The pipeline builds the following tables:
 ### Step 1: Clone the repository
 
 ```bash
-git clone (https://github.com/Sanjana27904/problem1-meridian-marketing-pipeline.git)
+git clone https://github.com/Sanjana27904/problem1-meridian-marketing-pipeline.git
 cd meridian_pipeline
 ```
 
