@@ -1,0 +1,5 @@
+flask
+requests
+psycopg2-binary
+pytest
+tzdata>=2024.1  # Windows: provides IANA time zones such as Asia/Kolkata
